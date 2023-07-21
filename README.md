@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kritisha Moktan</h1>
-<h3 align="center">A backend developer</h3>
+<h3 align="center">Learner</h3>
 
 - 🌱 I’m currently learning **Node.js, Express.js, MongoDB**
 
