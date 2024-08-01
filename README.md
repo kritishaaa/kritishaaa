@@ -64,10 +64,4 @@
 </a> 
 </p>
 
-<h3 align="left">Experience:</h3>
-<ul>
-  <li><strong>Backend Development Intern - PROSHORE NEPAL: </strong> 3 months working with Laravel and team projects.</li>
-  <li><strong>Fullstack Trainee - PROSHORE NEPAL: </strong> Worked on real projects using Laravel as backend and React as frontend.</li>
-</ul>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kritishaaa&" alt="kritishaaa" /></p>
