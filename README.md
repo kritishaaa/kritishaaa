@@ -3,7 +3,7 @@
 
 - 🌱 I believe in lifelong learning.
 
-- 📫 How to reach me **Kritishamoktan530@gmail.com**
+- 📫 How to reach me **kritishamoktan530@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
